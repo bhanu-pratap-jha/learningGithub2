@@ -8,3 +8,5 @@ git remote add origin: ka mtlb hai ki hum ek naya remote add karna chahte hain .
 
 git push -u origin main : agar hum ek hi project par bohot lambe time tak kaam karna chahte hain to baar baar 'git push origin main' likhne ke wajaay ek hi baar 'git push -u origin main' daal denge 
                             jahan -u ka matlab hai set upstream 
+
+we are now in feature branch
